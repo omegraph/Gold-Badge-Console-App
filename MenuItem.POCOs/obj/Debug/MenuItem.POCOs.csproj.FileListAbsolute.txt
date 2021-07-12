@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\MenuItem.POCOs\bin\Debug\MenuItem.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\MenuItem.POCOs\bin\Debug\MenuItem.POCOs.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\MenuItem.POCOs\obj\Debug\MenuItem.POCOs.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\MenuItem.POCOs\obj\Debug\MenuItem.POCOs.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\MenuItem.POCOs\obj\Debug\MenuItem.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\MenuItem.POCOs\obj\Debug\MenuItem.POCOs.pdb
