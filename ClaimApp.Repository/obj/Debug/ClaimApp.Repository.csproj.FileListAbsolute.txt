@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\bin\Debug\ClaimApp.Repository.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\bin\Debug\ClaimApp.Repository.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\obj\Debug\ClaimApp.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\obj\Debug\ClaimApp.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\obj\Debug\ClaimApp.Repository.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\obj\Debug\ClaimApp.Repository.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\bin\Debug\ClaimsApp.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\bin\Debug\ClaimsApp.POCOs.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimApp.Repository\obj\Debug\ClaimApp.Repository.csproj.CopyComplete

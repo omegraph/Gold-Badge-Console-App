@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\obj\Debug\KomodoClaimsAppUI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\obj\Debug\KomodoClaimsAppUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\KomodoClaimsAppUI.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\KomodoClaimsAppUI.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\KomodoClaimsAppUI.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\ClaimApp.Repository.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\ClaimsApp.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\ClaimApp.Repository.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\bin\Debug\ClaimsApp.POCOs.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\obj\Debug\KomodoClaimsAppUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\obj\Debug\KomodoClaimsAppUI.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\KomodoClaimsAppUI\obj\Debug\KomodoClaimsAppUI.pdb

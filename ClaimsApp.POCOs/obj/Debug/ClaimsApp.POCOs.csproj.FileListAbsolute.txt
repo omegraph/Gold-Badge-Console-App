@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimsApp.POCOs\obj\Debug\ClaimsApp.POCOs.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimsApp.POCOs\obj\Debug\ClaimsApp.POCOs.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimsApp.POCOs\bin\Debug\ClaimsApp.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimsApp.POCOs\bin\Debug\ClaimsApp.POCOs.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimsApp.POCOs\obj\Debug\ClaimsApp.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\ClaimsApp.POCOs\obj\Debug\ClaimsApp.POCOs.pdb

@@ -42,7 +42,7 @@ namespace ChallengeCafe
                         break;
                     case "4":
                         isRuning = false;
-                        Console.WriteLine("Pressany key to continue");
+                        Console.WriteLine("Press any key to continue");
                         Console.ReadKey();
                         break;
 
@@ -77,7 +77,7 @@ namespace ChallengeCafe
                               $"Meal Number: {menuItems.MealNumber}\n" +
                               $"Meal Name: {menuItems.MealName}\n" +
                               $"Description: {menuItems.Description}\n" +
-                              $"Ingridients: {menuItems.Ingredients}\n" +
+                              $"Ingridients: {string.Join(", ", menuItems.Ingredients)}\n" +
                               $"Price: {menuItems.Price}\n");
             Console.WriteLine("------------------------------------------------");
 
@@ -110,7 +110,7 @@ namespace ChallengeCafe
             Console.WriteLine("Please enter the Description:");
             var userInputDescription = Console.ReadLine();
 
-            Console.WriteLine("Please enter the Ingridients:");
+            Console.WriteLine("Please enter the Ingridients: (seperated by commas ',')");
             var userInputIngredients = Console.ReadLine();
 
             Console.WriteLine("Please the Price:");
