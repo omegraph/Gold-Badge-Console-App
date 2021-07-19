@@ -1,4 +1,4 @@
-﻿using BadgesApp.POCOs.Doors;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;

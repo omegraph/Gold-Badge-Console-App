@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\obj\Debug\BadgesConsole.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\obj\Debug\BadgesConsole.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesConsole.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesConsole.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesConsole.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesApp.POCOs.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesApp.Repository.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesApp.POCOs.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\bin\Debug\BadgesApp.Repository.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\obj\Debug\BadgesConsole.csproj.CopyComplete
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\obj\Debug\BadgesConsole.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\ChallengeCafeApp\BadgesConsole\obj\Debug\BadgesConsole.pdb
